@@ -76,7 +76,26 @@ The study investigates how the ubiquitous Nigerian English formulaic utterance *
    70% of respondents report that severe macroeconomic shocks (food inflation, currency devaluation) do not inhibit the deployment of the greeting, confirming its primary status as a phatic relational token rather than an economic contract.
 
 ---
+Citation & Metadata
+APA 7th Edition
+Merrikhi, P. (2026). Between Care and “Billing”: Decoding Linguistic Masking and Transnational Identity in the Nigerian Greeting “Have You Eaten?” — Survey Data and Supplementary Materials (Version 0.1.Sociopragmatics) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22930424
+---
 
+BibTeX
+bibtex
+@dataset{merrikhi_2026_zenodo,
+  author       = {Merrikhi, Pegah},
+  title        = {{Between Care and "Billing": Decoding Linguistic Masking and Transnational Identity in the Nigerian Greeting "Have You Eaten?" — Survey Data and Supplementary Materials}},
+  year         = {2026},
+  publisher    = {Zenodo},
+  version      = {0.1.Sociopragmatics},
+  doi          = {10.5281/zenodo.22930424},
+  url          = {https://doi.org/10.5281/zenodo.22930424}
+}
+---
+License
+This project and dataset are distributed under the terms of the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+---
 ## Repository Structure
 ```text
 .

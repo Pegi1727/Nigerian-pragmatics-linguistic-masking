@@ -1,0 +1,17 @@
+name: pragmatics
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - pandas>=1.5
+  - numpy>=1.23
+  - matplotlib>=3.6
+  - openpyxl>=3.1
+  # Optional R environment: uncomment to include R alongside Python
+  # - r-base>=4.2
+  # - r-readr
+  # - r-dplyr
+  # - r-tidyr
+  # - r-ggplot2
+  # - r-scales

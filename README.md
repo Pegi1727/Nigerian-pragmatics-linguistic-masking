@@ -96,6 +96,9 @@ bibtex
 License
 This project and dataset are distributed under the terms of the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 ---
+Contact detail:  Pegah.Merrikhiii@gmail.com
+Dr Pegah Merrikhi Ph.D. in TESOL and Applied Linguistics 
+---
 ## Repository Structure
 ```text
 .

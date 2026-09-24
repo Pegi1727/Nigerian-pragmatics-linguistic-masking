@@ -1,0 +1,101 @@
+ID,Q1_frequency,Q2_intent,Q3_affection,Q4_reaction,Q5,Q6_economy,Age,Location,Ethnicity
+1,Often,Small care,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+2,Often,Genuine care,Strongly Agree,Empathetic/help,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+3,Often,Small care,Strongly Agree,Surprised,Offer food/money,No: traditional regardless,30-50,Nigeria,Nigerian
+4,Often,Small care,Strongly Agree,Surprised,Verbal comfort/prayers,Not sure,30-50,Diaspora,Nigerian
+5,Often,Small care,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+6,Often,Genuine care,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+7,Often,Social expectation/habit,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+8,Often,Small care,Strongly Agree,Anxious re billing,Change topic,No: traditional regardless,30-50,Diaspora,Nigerian
+9,Sometimes,Small care,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+10,Sometimes,Small care,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,Not sure,30-50,Nigeria,Nigerian
+11,Always,Genuine care,Strongly Agree,Empathetic/help,Offer food/money,No: traditional regardless,30-50,Diaspora,Nigerian
+12,Often,Genuine care,Strongly Agree,Empathetic/help,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+13,Often,Small talk,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+14,Often,Genuine care,Strongly Agree,Neutral/Amused,Offer food/money,No: traditional regardless,30-50,Nigeria,Nigerian
+15,Sometimes,Small care,Strongly Agree,Surprised,Offer food/money,No: traditional regardless,30-50,Diaspora,Nigerian
+16,Sometimes,Social expectation/habit,Strongly Agree,Surprised,Verbal comfort/prayers,Not sure,30-50,Diaspora,Nigerian
+17,Often,Small talk,Strongly Agree,Neutral/Amused,Other,No: traditional regardless,30-50,Diaspora,Nigerian
+18,Sometimes,Small care,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+19,Always,Small care,Strongly Agree,Surprised,Verbal comfort/prayers,Not sure,30-50,Nigeria,Nigerian
+20,Sometimes,Small care,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,Not sure,30-50,Diaspora,Nigerian
+21,Sometimes,Social expectation/habit,Strongly Agree,Empathetic/help,Other,Not sure,30-50,Diaspora,Nigerian
+22,Often,Small care,Strongly Agree,Empathetic/help,Offer food/money,No: traditional regardless,30-50,Nigeria,Nigerian
+23,Often,Small care,Strongly Agree,Empathetic/help,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+24,Sometimes,Small talk,Strongly Agree,Neutral/Amused,Change topic,No: traditional regardless,30-50,Diaspora,Nigerian
+25,Always,Genuine care,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+26,Often,Genuine care,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+27,Sometimes,Genuine care,Strongly Agree,Surprised,Other,No: traditional regardless,30-50,Nigeria,Nigerian
+28,Often,Small care,Strongly Agree,Anxious re billing,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+29,Sometimes,Small care,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+30,Sometimes,Genuine care,Strongly Agree,Surprised,Offer food/money,Yes: more cautious,30-50,Diaspora,Nigerian
+31,Often,Small talk,Strongly Agree,Surprised,Verbal comfort/prayers,Not sure,30-50,Nigeria,Nigerian
+32,Always,Small talk,Strongly Agree,Surprised,Change topic,Not sure,30-50,Diaspora,Nigerian
+33,Sometimes,Small talk,Strongly Agree,Surprised,Other,No: traditional regardless,30-50,Nigeria,Nigerian
+34,Often,Small care,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,Not sure,30-50,Nigeria,Nigerian
+35,Often,Genuine care,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+36,Often,Social expectation/habit,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+37,Sometimes,Small care,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+38,Often,Genuine care,Strongly Agree,Empathetic/help,Verbal comfort/prayers,Not sure,30-50,Diaspora,Nigerian
+39,Often,Social expectation/habit,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+40,Often,Social expectation/habit,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+41,Sometimes,Small talk,Strongly Agree,Empathetic/help,Change topic,No: traditional regardless,30-50,Diaspora,Nigerian
+42,Often,Small care,Strongly Agree,Empathetic/help,Verbal comfort/prayers,Not sure,30-50,Diaspora,Nigerian
+43,Sometimes,Genuine care,Strongly Agree,Empathetic/help,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+44,Always,Genuine care,Strongly Agree,Surprised,Change topic,No: traditional regardless,30-50,Diaspora,Nigerian
+45,Sometimes,Genuine care,Strongly Agree,Anxious re billing,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+46,Always,Small talk,Strongly Agree,Surprised,Verbal comfort/prayers,Yes: more cautious,30-50,Nigeria,Nigerian
+47,Sometimes,Social expectation/habit,Strongly Agree,Empathetic/help,Change topic,Not sure,30-50,Nigeria,Nigerian
+48,Sometimes,Genuine care,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+49,Sometimes,Small care,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+50,Always,Social expectation/habit,Strongly Agree,Neutral/Amused,Change topic,No: traditional regardless,30-50,Nigeria,Nigerian
+51,Sometimes,Social expectation/habit,Strongly Agree,Surprised,Other,Yes: more cautious,30-50,Diaspora,Nigerian
+52,Sometimes,Social expectation/habit,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+53,Often,Social expectation/habit,Strongly Agree,Anxious re billing,Verbal comfort/prayers,Not sure,30-50,Diaspora,Nigerian
+54,Sometimes,Genuine care,Strongly Agree,Surprised,Other,Not sure,30-50,Diaspora,Nigerian
+55,Often,Social expectation/habit,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+56,Sometimes,Small talk,Strongly Agree,Neutral/Amused,Change topic,Not sure,30-50,Diaspora,Nigerian
+57,Often,Small care,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+58,Sometimes,Social expectation/habit,Strongly Agree,Empathetic/help,Verbal comfort/prayers,Not sure,30-50,Diaspora,Nigerian
+59,Often,Genuine care,Strongly Agree,Surprised,Verbal comfort/prayers,Not sure,30-50,Diaspora,Nigerian
+60,Sometimes,Social expectation/habit,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+61,Sometimes,Small care,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+62,Often,Genuine care,Strongly Agree,Anxious re billing,Change topic,No: traditional regardless,30-50,Diaspora,Nigerian
+63,Often,Genuine care,Strongly Agree,Surprised,Change topic,No: traditional regardless,30-50,Nigeria,Nigerian
+64,Often,Social expectation/habit,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,Not sure,30-50,Diaspora,Nigerian
+65,Sometimes,Small talk,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+66,Always,Social expectation/habit,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+67,Sometimes,Small care,Strongly Agree,Surprised,Verbal comfort/prayers,Not sure,30-50,Diaspora,Nigerian
+68,Often,Small talk,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+69,Sometimes,Small care,Strongly Agree,Surprised,Other,No: traditional regardless,30-50,Nigeria,Nigerian
+70,Often,Genuine care,Strongly Agree,Surprised,Other,Yes: more cautious,30-50,Nigeria,Nigerian
+71,Often,Genuine care,Strongly Agree,Surprised,Change topic,No: traditional regardless,30-50,Diaspora,Nigerian
+72,Sometimes,Genuine care,Strongly Agree,Anxious re billing,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+73,Sometimes,Genuine care,Strongly Agree,Surprised,Offer food/money,No: traditional regardless,30-50,Nigeria,Nigerian
+74,Often,Genuine care,Strongly Agree,Surprised,Verbal comfort/prayers,Not sure,30-50,Nigeria,Nigerian
+75,Often,Genuine care,Strongly Agree,Empathetic/help,Change topic,Not sure,30-50,Diaspora,Nigerian
+76,Often,Genuine care,Strongly Agree,Empathetic/help,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+77,Sometimes,Social expectation/habit,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+78,Sometimes,Small talk,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,Not sure,30-50,Nigeria,Nigerian
+79,Sometimes,Social expectation/habit,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+80,Often,Social expectation/habit,Strongly Agree,Surprised,Other,No: traditional regardless,30-50,Diaspora,Nigerian
+81,Often,Small care,Strongly Agree,Empathetic/help,Change topic,No: traditional regardless,30-50,Diaspora,Nigerian
+82,Always,Small talk,Strongly Agree,Neutral/Amused,Change topic,No: traditional regardless,30-50,Nigeria,Nigerian
+83,Sometimes,Small care,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+84,Often,Genuine care,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+85,Sometimes,Genuine care,Strongly Agree,Surprised,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+86,Often,Small care,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,Not sure,30-50,Diaspora,Nigerian
+87,Often,Social expectation/habit,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+88,Often,Genuine care,Strongly Agree,Neutral/Amused,Offer food/money,No: traditional regardless,30-50,Diaspora,Nigerian
+89,Often,Social expectation/habit,Strongly Agree,Surprised,Verbal comfort/prayers,Not sure,30-50,Diaspora,Nigerian
+90,Sometimes,Small care,Strongly Agree,Anxious re billing,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+91,Often,Small care,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+92,Often,Small care,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Diaspora,Nigerian
+93,Often,Small talk,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+94,Often,Social expectation/habit,Strongly Agree,Empathetic/help,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+95,Often,Small care,Strongly Agree,Surprised,Change topic,No: traditional regardless,30-50,Nigeria,Nigerian
+96,Sometimes,Genuine care,Strongly Agree,Empathetic/help,Offer food/money,Not sure,30-50,Diaspora,Nigerian
+97,Often,Small talk,Strongly Agree,Anxious re billing,Other,No: traditional regardless,30-50,Diaspora,Nigerian
+98,Sometimes,Genuine care,Strongly Agree,Neutral/Amused,Offer food/money,No: traditional regardless,30-50,Diaspora,Nigerian
+99,Sometimes,Social expectation/habit,Strongly Agree,Neutral/Amused,Verbal comfort/prayers,No: traditional regardless,30-50,Nigeria,Nigerian
+100,Always,Small care,Strongly Agree,Surprised,Verbal comfort/prayers,Yes: more cautious,30-50,Diaspora,Nigerian

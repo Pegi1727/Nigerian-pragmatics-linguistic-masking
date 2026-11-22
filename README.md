@@ -20,7 +20,7 @@ The study investigates how the ubiquitous Nigerian English formulaic utterance *
 
 ## Graphical Abstract
 
-![Graphical Abstract](Figures/graphical_abstract.png)
+![Graphical Abstract](Figures/graphical abstract1.png)
 
 ---
 

@@ -20,7 +20,8 @@ The study investigates how the ubiquitous Nigerian English formulaic utterance *
 
 ## Graphical Abstract
 
-![Graphical Abstract](Figures/graphical abstract1.png)
+[![Graphical Abstract](Figures/graphical%20abstract1.png)](https://github.com/Pegi1727/Nigerian-pragmatics-linguistic-masking/blob/main/Figures/graphical%20abstract1.png)
+
 
 ---
 
